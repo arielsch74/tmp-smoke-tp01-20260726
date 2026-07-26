@@ -1,4 +1,4 @@
-# tmp-smoke-tp01-20260726
+# Proyecto IngSoft3 - versión B
 ## Instalación
 
 Clonar el repo y seguir los pasos.
